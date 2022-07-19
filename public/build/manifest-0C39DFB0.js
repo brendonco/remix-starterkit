@@ -1,1 +1,0 @@
-window.__remixManifest={"version":"0c39dfb0","entry":{"module":"/build/entry.client-EMBMMMOA.js","imports":["/build/_shared/chunk-XDPOD75K.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-CWF5H535.js","hasAction":false,"hasLoader":false,"hasCatchBoundary":false,"hasErrorBoundary":false}},"url":"/build/manifest-0C39DFB0.js"};

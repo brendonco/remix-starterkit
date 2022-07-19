@@ -1,1 +1,0 @@
-window.__remixManifest={"version":"3c352067","entry":{"module":"/build/entry.client-RLOWPRRH.js","imports":["/build/_shared/chunk-WDAK4VMI.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-TAJVSOY5.js","hasAction":false,"hasLoader":false,"hasCatchBoundary":false,"hasErrorBoundary":false}},"url":"/build/manifest-3C352067.js"};
