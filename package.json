@@ -1,0 +1,25 @@
+{
+  "name": "remix-starterkit",
+  "version": "1.0.0",
+  "description": "Remix Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "remix setup node",
+    "build": "remix build",
+    "dev": "remix dev",
+    "start": "cross-env NODE_ENV=production remix-serve ./build"
+  },
+  "author": "Co, Brendon Vy",
+  "license": "ISC",
+  "dependencies": {
+    "@remix-run/react": "^1.6.5",
+    "@remix-run/serve": "^1.6.5",
+    "cross-env": "^7.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remix": "^1.6.5"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^1.6.5"
+  }
+}
